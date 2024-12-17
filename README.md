@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<!--
+Welcome,
+
+I am Baris @ DMB TECH.
+
+Full Stack Development, DevOps, Industrial Automation, Project Management
+
+<!--  
 **dmbtechdev/dmbtechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
