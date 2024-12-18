@@ -18,7 +18,7 @@ Full Stack Development, DevOps, Industrial Automation, Project Management
 * X Api integration
 * Local development with https://ngrok.com/ as a webhook endpoint
 
-[Rust Library](https://github.com/dmbtechdev/Rust_Library)
+[The Library for Rust](https://github.com/dmbtechdev/The_Library_for_Rust)
 
 <!--  
 **dmbtechdev/dmbtechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
