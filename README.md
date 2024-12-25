@@ -6,9 +6,9 @@ I am Baris @ DMB TECH.
 
 Full Stack Development, DevOps, Industrial Automation, Project Management
 
-###### [X](https://x.com/dmbtechdev)
+##### [X](https://x.com/dmbtechdev)
 
-###### [Medium](https://medium.com/@dmbtechdev)
+##### [Medium](https://medium.com/@dmbtechdev)
 
 
 
