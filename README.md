@@ -6,18 +6,13 @@ I am Baris @ DMB TECH.
 
 Full Stack Development, DevOps, Industrial Automation, Project Management
 
-You can find me on
+You can find me on;
 
-[X](https://x.com/dmbtechdev) and
+## [X](https://x.com/dmbtechdev)
 
-[Medium](https://medium.com/@dmbtechdev)
-
+## [Medium](https://medium.com/@dmbtechdev)
 
 ---
-
-
-
-
 
 **Check out! [X Bot](https://github.com/dmbtechdev/x-bot)**
 
