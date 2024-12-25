@@ -8,9 +8,9 @@ Full Stack Development, DevOps, Industrial Automation, Project Management
 
 You can find me on;
 
-## [X](https://x.com/dmbtechdev)
+### [X](https://x.com/dmbtechdev)
 
-## [Medium](https://medium.com/@dmbtechdev)
+### [Medium](https://medium.com/@dmbtechdev)
 
 ---
 
