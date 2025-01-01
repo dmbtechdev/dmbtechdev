@@ -10,10 +10,9 @@ You can find me on;
 
 ### [X](https://x.com/dmbtechdev), [Medium](https://medium.com/@dmbtechdev)
 
-
 ---
 
-**Check out! [Block Chain Exmaple](https://github.com/dmbtechdev/block_chain)**
+**Check out! [Block Chain Example](https://github.com/dmbtechdev/block_chain)**
 
 * Blocks
 * Transactions
@@ -22,9 +21,6 @@ You can find me on;
 * Multi-thread(node)
 * [Articles - Part 1](https://medium.com/@dmbtechdev/building-a-simple-blockchain-example-in-rust-part-1-aa235bceb4b9)
 * [Articles - Part 2](https://medium.com/@dmbtechdev/building-a-simple-blockchain-example-in-rust-part-2-8a521eae1e74)
-
-
-
 
 ---
 
