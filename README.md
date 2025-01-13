@@ -4,7 +4,7 @@ Welcome,
 
 I am Baris @ DMB TECH.
 
-Full Stack Development, DevOps, Industrial Automation, Project Management
+Rust Developer, Full Stack Development, DevOps, Industrial Automation, Project Management
 
 You can find me on;
 
